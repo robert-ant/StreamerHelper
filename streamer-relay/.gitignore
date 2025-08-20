@@ -1,0 +1,6 @@
+# never commit secrets or local builds
+*.env
+*.zip
+*.log
+node_modules/
+dist/
